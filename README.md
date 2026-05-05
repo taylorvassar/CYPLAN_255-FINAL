@@ -10,7 +10,7 @@ In order to reproduce your own version on your device, do the following steps:
 # Data
 This project utilizes datasets from several sources. Below is a table that summarizes the information. The data source is **hyperlinked** in the datset name, and clicking it will take you to the respective source website.
 ## Datasets
-| Header 1 | Header 2 | Header 3 |
-| ------------- | ------------- | ------------- |
-| Row 1 Column 1| Row 1 Column 2| Row 1 Column 3|
-| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3|
+|  Dataset | Year Coverage | Format | Source
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Row 1 Column 1| Row 1 Column 2| Row 1 Column 3| Row 1 Column 3| Row 1 Column 3|
+| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3| Row 1 Column 3| Row 1 Column 3|
