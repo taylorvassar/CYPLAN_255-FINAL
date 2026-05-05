@@ -9,7 +9,7 @@ In order to reproduce your own version on your device, do the following steps:
 **2.**
 
 # Data 
-This project utilizes datasets from several sources. Below is a table that summarizes the information. The data source is **hyperlinked** in the datset name, and clicking it will take you to the respective source website.
+This project utilizes datasets from several sources. Below is a table that summarizes the information. For the SNAP Retailers dataset that is accessed via PolicyMap, the user may need to sign in with their institutional credentials or create an account.
 ## Datasets
 | Dataset | Year Coverage | Size | Source |
 | ------- | ------------- | ------ | ------- |
