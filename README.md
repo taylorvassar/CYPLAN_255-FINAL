@@ -1,6 +1,6 @@
 # Spacing SF: Examining Inequity in Access to Essential Amenities
 
-Hello! This project investigates the distribution of public amenities among socioeconomically diverse census tracts in San Francisco. Our main research question is: *How are key neighborhood amenities distributed across socioeconomically different areas of San Francisco, and do these spatial patterns produce compounded disadvantage?*
+Welcome! This project investigates the distribution of public amenities among socioeconomically diverse census tracts in San Francisco. Our main research question is: *How are key neighborhood amenities distributed across socioeconomically different areas of San Francisco, and do these spatial patterns produce compounded disadvantage?*
 
 # Reproducibility
 In order to reproduce your own version on your device, do the following steps:
