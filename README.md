@@ -5,7 +5,7 @@ Welcome! This project investigates the distribution of public amenities among so
 # Reproducibility
 In order to reproduce your own version on your device, do the following steps:
 
-**1.** Run git clone https://github.com/taylorvassar/Spacing_San_Francisco.git
+**1.** Run git clone https://github.com/taylorvassar/Spacing_San_Francisco.git \
 **2.** You now have access to the datasets and visuals that we have used!
 
 # Data 
