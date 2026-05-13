@@ -2,7 +2,7 @@
 
 Welcome! This project investigates the distribution of public amenities among socioeconomically diverse census tracts in San Francisco. Our main research question is: *How are key neighborhood amenities distributed across socioeconomically different areas of San Francisco, and do these spatial patterns produce compounded disadvantage?*
 
-Check out our ArcGIS Storymap here!
+Check out our ArcGIS Storymap [here](https://storymaps.arcgis.com/stories/b4e074ac9c86407abe76a4bd8ce41318)!
 All work by Taylor Vassar and Brittany Vang.
 
 # Reproducibility
