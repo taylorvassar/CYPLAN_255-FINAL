@@ -34,6 +34,10 @@ We discovered some interesting patterns within each category. Here's a snapshot 
 - Major income inequality across San Francisco's census tracts, ranging from $18,217 to $247,500 
 - Wealthier areas cluster in the north while lower-income tracts concentrate in the center and southeast
 ## Food
+- Food services with a high weight are densely populated and span across all socioeconomic tracts on the east side of the county, whereas the west side observes a more sparse pattern among medium-income tracts
+-  Food services with a medium weight are led by convenience and grocery stores, implying that the resource of SNAP itself may be the determinant of one’s income level, rather than the census tract that their residence lies in.
+-  Low weight resources,  seem to be concentrated in tracts that are at either extreme end of the income spectrum
+
 ## Transit (Muni)
 - Map of Muni transit stops reveals dense coverage across the northeastern quadrant of San Francisco, mostly in Downtown and the Financial District
 - Coverage thins noticeably toward the southwestern areas, suggesting lower transit frequency 
@@ -44,6 +48,12 @@ We discovered some interesting patterns within each category. Here's a snapshot 
 - On average, census tracts are about 405 meters from the nearest public school, and half of all tracts are within 366 meters, which is roughly a 5-minute walk
 - Schools are much more densely clustered in the central and eastern parts of the city
 - Some southern tracts near Bayview show moderate school proximity despite lower income levels, suggesting school access may not be the primary driver of disadvantage there
+
+ ## Correlation Analysis
+- Transit access has a weak positive relationship with income (r = 0.20), meaning higher income tracts tend to have slightly more stops
+- Food services and school proximity show virtually extremely little linear relationship with income (r = -0.06 each)
+- Some tracts do experience overlapping gaps across food, transit, and schools simultaneously, which is the compounded disadvantage our index was designed to detect
+
 # Conclusion
 
 Overall, we found that income by itself does **not** strongly predict access to any single type of amenity. Some low-income neighborhoods still have nearby services, while other  higher-income areas are not uniformly well served. However, when we combine food, transit, and school access into a single index, clearer patterns emerge. Certain parts of the city experience overlapping gaps across multiple services at once, especially in specific western and southeastern tracts. These patterns would not be visible if we only looked at one type of amenity at a time, which supports the idea that deprivation builds across different parts of everyday life rather than appearing in isolation.
