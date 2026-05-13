@@ -28,13 +28,22 @@ This project utilizes datasets from several sources. Below is a table that summa
 
 # Findings
 
-We discovered some interesting patterns among each category.
+We discovered some interesting patterns within each category. Here's a snapshot of them.
 
 ## Census Tract + Income
+- Major income inequality across San Francisco's census tracts, ranging from $18,217 to $247,500 
+- Wealthier areas cluster in the north while lower-income tracts concentrate in the center and southeast
 ## Food
 ## Transit (Muni)
-## Public Schools
+- Map of Muni transit stops reveals dense coverage across the northeastern quadrant of San Francisco, mostly in Downtown and the Financial District
+- Coverage thins noticeably toward the southwestern areas, suggesting lower transit frequency 
+- When transit stops are overlaid on the median income layer, distribution is seemingly patternless
+-  Middle income central tracts benefit from the densest stop coverage, while the lowest income tracts show fewer stops, pointing to a compounded disadvantage. 
 
+## Public Schools
+- On average, census tracts are about 405 meters from the nearest public school, and half of all tracts are within 366 meters, which is roughly a 5-minute walk
+- Schools are much more densely clustered in the central and eastern parts of the city
+- Some southern tracts near Bayview show moderate school proximity despite lower income levels, suggesting school access may not be the primary driver of disadvantage there
 # Conclusion
 Overall, we found that income by itself does **not** strongly predict access to any single type of amenity. Some low-income neighborhoods still have nearby services, while some higher-income areas are not uniformly well served. However, when we combine food, transit, and school access into a single index, clearer patterns emerge. Certain parts of the city experience overlapping gaps across multiple services at once, especially in specific western and southeastern tracts. These patterns would not be visible if we only looked at one type of amenity at a time, which supports the idea that deprivation builds across different parts of everyday life rather than appearing in isolation.
 
