@@ -1,9 +1,13 @@
- os
-numpy
+# dependencies for reproducibility
+os
+numpy==2.0.2
 %matplotlib inline
-pandas
-geopandas
+pandas==2.2.2
+geopandas==1.1.3
 matplotlib.pyplot
 shapely.geometry
-shapely.geometry
+shapely==2.1.2
 datetime
+sklearn.preprocessing
+folium==0.20.0
+seaborn==0.13.2
