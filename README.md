@@ -2,6 +2,9 @@
 
 Welcome! This project investigates the distribution of public amenities among socioeconomically diverse census tracts in San Francisco. Our main research question is: *How are key neighborhood amenities distributed across socioeconomically different areas of San Francisco, and do these spatial patterns produce compounded disadvantage?*
 
+Check out our ArcGIS Storymap here!
+All work by Taylor Vassar and Brittany Vang.
+
 # Reproducibility
 In order to reproduce your own version on your device, do the following steps:
 
@@ -23,7 +26,21 @@ This project utilizes datasets from several sources. Below is a table that summa
 | Muni Stops | 2025 | 820.09 KB | [DataSF](https://data.sfgov.org/Transportation/Muni-Stops/i28k-bkz6/about_data) |
 | School Locations | 2024-2025 | 29 MB| [NCES](https://nces.ed.gov/programs/edge/Geographic/SchoolLocations) |
 
+# Findings
 
+We discovered some interesting patterns among each category.
+
+## Census Tract + Income
+## Food
+## Transit (Muni)
+## Public Schools
+
+# Conclusion
+Overall, we found that income by itself does **not** strongly predict access to any single type of amenity. Some low-income neighborhoods still have nearby services, while some higher-income areas are not uniformly well served. However, when we combine food, transit, and school access into a single index, clearer patterns emerge. Certain parts of the city experience overlapping gaps across multiple services at once, especially in specific western and southeastern tracts. These patterns would not be visible if we only looked at one type of amenity at a time, which supports the idea that deprivation builds across different parts of everyday life rather than appearing in isolation.
+
+**Policy Considerations:** This suggests that treating food access, transit access, and educational access as separate problems can miss where the biggest needs actually are. A more effective approach would focus on neighborhoods where multiple disadvantages overlap, rather than addressing each system independently. For example, improving transit connectivity, increasing high-quality food options, and strengthening school resources in the same areas could have a greater combined impact on opportunity.
+
+**Future Research:** More broadly, this project shows why it is important to measure urban inequality in a way that reflects real lived experience, where people rely on several systems at once. It also suggests future research could look more closely at how these overlapping disadvantages affect outcomes like health, mobility, and long-term opportunity over time.
 
 
 
